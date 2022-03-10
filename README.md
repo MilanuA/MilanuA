@@ -15,7 +15,6 @@
 </h1>
 </div>
 
- ---
  ### About me:
  - 🎮 I am a 2D Game developer learning C++ and C# for Unreal and Unity3D. 
  - 📖 One of my favorite books is Lord of the Rings. 
@@ -23,6 +22,7 @@
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 
