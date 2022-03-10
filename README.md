@@ -14,15 +14,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div id = "Main">
+
   ---
  ### 🎮 About me:
  - I am a 2D Game developer learning C++ and C# for Unreal and Unity3D. <br/>
  - 📖 One of my favorite books is Lord of the Rings. 
   ---
 
-### :hammer_and_wrench: Languages and Tools :
-</div>
+###:hammer_and_wrench: Languages and Tools :
+
 
 <!--
 **MilanuA/MilanuA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
