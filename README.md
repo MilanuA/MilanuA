@@ -16,7 +16,7 @@
 </div>
 
  ### About me:
- - 🎮 I am a 2D Game developer learning C++ and C# for Unreal and Unity3D. 
+ - 🎮 I am a 2D Game developer using C# and Unity3D. 
  - 📖 One of my favorite books is Lord of the Rings. 
  - 🕹️ My favorite game? Definitely Minecraft!
  ---
