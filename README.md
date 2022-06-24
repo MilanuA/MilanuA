@@ -17,6 +17,8 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanua&show_icons=true&locale=en" alt="milanua" /></p>
 
+<br>
+<img src="https://random.dog/" width="450" heigh="450" alt="Picture of a cat"/>
 <!--
 **MilanuA/MilanuA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
