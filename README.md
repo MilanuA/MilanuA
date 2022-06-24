@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Can you survive this?](https://destiro-games.itch.io/can-you-survive-this)
 
-- 📫 How to reach me **alexumilan@gmail.com**
+- 📫 How to reach me **alexmilanu@protonmail.com**
 
 - ⚡ Fun fact **I like Minecraft, books and dogs!**
 <br>
